@@ -1,0 +1,18 @@
+
+### 4. **CODE_OF_CONDUCT.md File (2 points)**
+   - **Task**: Include a `CODE_OF_CONDUCT.md` file.
+   - **Instructions**:
+     - Create a file called `CODE_OF_CONDUCT.md`.
+     - You can use a standard template from [GitHub’s Code of Conduct](https://github.com/github/opensource.guide/blob/main/CODE_OF_CONDUCT.md) or adapt one to fit your project.
+   - **Grading**:
+     - 0 pts: No `CODE_OF_CONDUCT.md` file.
+     - 1 pt: File present but incorrect or incomplete.
+     - 2 pts: Complete and correct `CODE_OF_CONDUCT.md`.
+
+#### Sample `CODE_OF_CONDUCT.md`:
+```md
+# Contributor Covenant Code of Conduct
+
+## Our Pledge
+
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone...
