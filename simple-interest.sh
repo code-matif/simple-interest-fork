@@ -1,6 +1,3 @@
-#!/bin/bash
-# Simple Interest Calculator
-
 echo "Enter the principal amount:"
 read principal
 echo "Enter the rate of interest:"

@@ -7,4 +7,4 @@ This project calculates simple interest based on the provided principal, rate, a
 Clone the repository:
 
 ```bash
-git clone https://github.com/code-matif/simple-interest.git
+git clone https://github.com/your-username/simple-interest.git
